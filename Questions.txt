@@ -1,0 +1,50 @@
+How many employees does we have?
+How many Sales Representatives are there in our company?
+What are the name's, email's and ID's of all the Sales Representatives in our company?
+What is the contact number and address of our office in Tokyo?
+How many offices we have all over the world?
+What is the location of our office with officecode 7?
+How many products included in the order with ordernumber 10100?
+How many orders are there for the product S18_2248?
+How much quantity of the product S18_2248 got sold out today?
+What is the average price of the product S18_2248?
+How many orders are still in processing state?
+How many orders we have got in the year 2003?
+In which year we have got more number of orders?
+How many orders are there which are ordered by Customer-141?
+How many products are there with productLine "Classic Cars"?
+What are the product names and product codes with "Classic Cars" productLine?
+What are the Product Scales for all products with ProductLine "Vintage Cars"?
+How many products that "Exoto Designs" vendoring for?
+What are the names of the products with product Scale 1:12?
+What is the total Buying price of the products that are vendoring by "Welly Diecast Productions"?
+What is the quantity of the product S10_1678 which In-Stock?
+What are the product names which are having Product Line "Trucks and Buses"?
+What are the product names and product codes which are having highest MSRP?
+What are the product names and product codes which are having lowest MSRP?
+What are the product names and product codes which are having BUying price less than 50.00?
+How many products are there with highest MSRP?
+How many products are there with lowest MSRP?
+What are product Lines for the products having highest Buying Price?
+What is the name of the product Vendor Vendoring for Highest number of Products?
+Waht is the name of the product Vendor Vendoring for Least number of Products?
+How many orders are cancelled in the year 2003?
+In which year most number of orders got Cancelled?
+What are the product names and product codes which are got cancelled in the year 2004?
+What are the product names and product codes which are ordered in the year 2005?
+What is the total amount we earned for the product S18_2248?
+How much did we earn for the order 10100?
+For which order we earn Highest amount?
+For which order we earn Least amount?
+What are names and ID's of all the employees in the office located at London?
+How many employees are there in all the offices all over the world?
+What are the names, ID's and emails of the Sales Representatives in the office at San Francisco?
+What are the emails, ID's and Names of the Sales Manager in all the offices?
+What are the ID's, names and emails of the presidents in all the offices?
+What are the product Names and Product Codes which are ordered in the order 10103?
+What is the total amount paid by the customer-121?
+What are the product codes and Product names having MSRP less than 100?
+What are the product names which are having MSRP greater than 100?
+How many employees are there in the office at Paris??
+What are the emails of the employees in the office at Sydney?
+How many orders we had in the year 2004?
